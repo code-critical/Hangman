@@ -1,0 +1,43 @@
+4
+9
+alimentos 0
+noz 1
+uva 1
+couve 1
+picle 2
+azeite 1
+cenoura 1
+tomate 2
+broculos 1
+10
+marcas 0
+bmw 14
+google 12
+sony 11
+cocacola 12
+adidas 11
+microsoft 13
+corona 12
+netflix 10
+mcdonalds 13
+10
+eletro 0
+eda 1
+amii 2
+vitor 2
+etica 1
+circuito 3
+multimetro 1
+programacao 1
+ohmimetro 2
+deec 1
+9
+arvores 0
+macieira 1
+laranjeiro 2
+pereira 1
+figueira 1
+carvalho 1
+oliveira 1
+cerejeira 1
+pessegueiro 1
