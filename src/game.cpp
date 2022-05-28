@@ -971,7 +971,7 @@ int game::roundActor() {
             if (selection.size() > 1) {
                 return GAME_STATE_LOGOUT;
             }
-
+            // Confirmção de saída
             switch(selection[0]) {
             case '1':
                 savePlayerData();
